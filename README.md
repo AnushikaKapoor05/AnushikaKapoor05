@@ -1,109 +1,96 @@
-<h1 align="center">Hi, I'm Anushika Kapoor 👋</h1>
+<h1 align="center">Anushika Kapoor</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · Flutter · Generative AI · B.Tech CSE @ SRM University, Delhi-NCR</b>
+  Software Engineer · Full-Stack &amp; Mobile · Generative AI<br/>
+  <sub>B.Tech Computer Science (CGPA 8.72) · SRM University, Delhi-NCR · Class of 2027</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/GEMINI_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/MACHINE_LEARNING-F37626?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anushika-kapoor-b482992a9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anushikakapoor05@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AnushikaKapoor05"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://anushika-kapoor.onrender.com"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=render&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/anushikakapoor_05/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.hackerrank.com/profile/anushikakapoor05"><img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/anushika-kapoor-b482992a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://anushika-kapoor.onrender.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=render&logoColor=white" /></a>
+  <a href="mailto:anushikakapoor05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/anushikakapoor_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/anushikakapoor05"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## Overview
 
-I'm a Computer Science student who loves building real-world products with **full-stack engineering and Generative AI**. I work on cross-platform mobile apps, AI-powered web platforms, and data pipelines — with a focus on clean, scalable and low-latency solutions.
+I design and ship production-grade applications across web, mobile and AI. My work centres on low-latency REST APIs, real-time cloud architectures and LLM-powered features that solve concrete user problems: from ATS-style resume scoring to clinical risk prediction.
 
-- 🎓 **B.Tech CSE** @ SRM University, Delhi-NCR (Sonepat) · Aug 2023 – Jun 2027 · **CGPA 8.72**
-- 📊 Former **Data Science Intern** @ Bluestock Fintech · May 2026 – Jul 2026
-- 🤖 Built **iJob AI** — an AI recruitment copilot with real-time ATS scoring
-- 🏥 Built **MediAssist AI** — healthcare platform with disease-risk prediction
-- 🇯🇵 **JLPT N5** certified
-- 📫 Reach me at **anushikakapoor05@gmail.com**
+Currently open to **software engineering internships and full-time opportunities** (2027 graduate).
 
 ---
 
-## 💼 Experience
+## Selected Work
 
-**Data Science Intern — Bluestock Fintech** *(Remote, May 2026 – Jul 2026)*
-- Analyzed large-scale financial & equity datasets with Python (Pandas, NumPy) for market-trend research.
-- Built automated data validation and ETL pipelines, cutting data prep time and ingestion latency by **25%**.
-- Created BI dashboards with Matplotlib & Seaborn to communicate risk metrics to cross-functional teams.
-
----
-
-## 🛠️ Featured Projects
-
-### 🤖 iJob AI — AI Recruitment Platform & Career Copilot
-`Flutter` `Dart` `Google Gemini AI` `Firebase`
-- Cross-platform (Web + Mobile) job marketplace with a glassmorphic UI and real-time Cloud Firestore sync.
-- Gemini-powered **ATS resume match scoring**, automated cover letters and STAR interview simulation.
-- AI Career Coach with low-latency caching, recruiter JD generator and candidate tracking.
-
-### 🏥 MediAssist AI — Healthcare Platform
-`React.js` `TypeScript` `Node.js` `PostgreSQL`
-- Full-stack app for AI symptom analysis and doctor consultation booking.
-- ML inference via REST APIs for real-time disease-risk prediction and preventive insights.
-- JWT auth, role-based access control and normalized PostgreSQL schemas for sub-second queries.
+| Project | Description | Stack |
+|---|---|---|
+| **iJob AI**<br/>AI Recruitment Platform & Career Copilot | Cross-platform (web + mobile) job marketplace with real-time Firestore sync. Gemini-powered ATS resume match scoring, automated cover letters, STAR-format interview simulation, and an AI career coach with low-latency response caching. | Flutter · Dart · Gemini API · Firebase |
+| **MediAssist AI**<br/>Healthcare Platform | Full-stack platform for AI symptom analysis and doctor consultation booking. ML inference served through REST APIs for real-time disease-risk prediction. JWT authentication, role-based access control, normalized schemas for sub-second queries. | React · TypeScript · Node.js · PostgreSQL |
 
 ---
 
-## 🧰 Tech Stack
+## Experience
 
-| Category | Technologies |
+**Data Science Intern · Bluestock Fintech** — *Remote · May 2026 – Jul 2026*
+
+- Analyzed large-scale financial and equity datasets with Pandas and NumPy to surface quantitative market trends for investment research.
+- Engineered automated data-validation and ETL pipelines, reducing analytical prep time and ingestion latency by **25%**.
+- Built BI dashboards (Matplotlib, Seaborn) communicating risk metrics to cross-functional stakeholders.
+- Optimized SQL queries on relational databases to preserve data integrity and speed up reporting.
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
 |---|---|
-| **Languages** | C++, Python, Dart, TypeScript, JavaScript, SQL, Java, C, HTML5/CSS3 |
-| **Frameworks** | Flutter, React.js, Node.js, Express.js, Prisma ORM, Streamlit, Pandas, NumPy |
-| **Cloud & Backend** | Firebase (Auth, Firestore, Hosting, Storage), REST APIs, Microservices |
-| **AI / ML** | Google Gemini API, Prompt Engineering, Predictive Analytics, ML Model Integration |
-| **Databases** | PostgreSQL, Cloud Firestore, MySQL, SQLite |
-| **Tools** | Git, GitHub, VS Code, Android Studio, Xcode, Postman, Vite, Vercel |
+| **Languages** | Python · Dart · TypeScript · JavaScript · C++ · Java · C · SQL |
+| **Frontend & Mobile** | Flutter · React.js · HTML5 / CSS3 · Vite |
+| **Backend** | Node.js · Express.js · Prisma ORM · REST APIs · JWT / RBAC · Microservices |
+| **Cloud & Data** | Firebase (Auth, Firestore, Hosting, Storage) · PostgreSQL · MySQL · SQLite · Vercel |
+| **AI / ML** | Google Gemini API · Prompt Engineering · Predictive Analytics · ML Model Integration |
+| **Data & Analytics** | Pandas · NumPy · Matplotlib · Seaborn · Streamlit · ETL Pipelines |
+| **Tooling** | Git · GitHub · Postman · Android Studio · Xcode · Firebase CLI |
+| **Core CS** | Data Structures & Algorithms · Operating Systems · DBMS · Computer Networks · Computer Architecture |
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+</p>
 
 ---
 
-## 📜 Certifications
+## Education & Certifications
 
-- Python Module Certification — Microsoft (Oct 2024)
-- Object-Oriented Programming in C++ — Udemy (Mar 2024)
+**B.Tech, Computer Science** — SRM University, Delhi-NCR (Sonepat) · 2023 – 2027 · CGPA 8.72 / 10
+
+- Python Module Certification — Microsoft (2024)
+- Object-Oriented Programming in C++ — Udemy (2024)
 - Digital Skills: Artificial Intelligence — Accenture (2024)
-- Japanese-Language Proficiency Test (JLPT N5) — Aug 2022
+- Japanese-Language Proficiency Test, N5 — JLPT (2022)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnushikaKapoor05&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushikaKapoor05&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushikaKapoor05&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnushikaKapoor05&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushikaKapoor05&layout=compact&hide_border=true&title_color=0A66C2" />
 </p>
 
 ---
 
-<p align="center">⭐ Thanks for stopping by! Let's build something awesome together. ⭐</p>
+<p align="center">
+  <sub>Let's connect: <a href="https://www.linkedin.com/in/anushika-kapoor-b482992a9/">LinkedIn</a> · <a href="mailto:anushikakapoor05@gmail.com">anushikakapoor05@gmail.com</a></sub>
+</p>
