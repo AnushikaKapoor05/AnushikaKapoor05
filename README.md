@@ -85,8 +85,15 @@ Currently open to **software engineering internships and full-time opportunities
 ## GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnushikaKapoor05&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushikaKapoor05&layout=compact&hide_border=true&title_color=0A66C2" />
+  <a href="https://github.com/AnushikaKapoor05">
+    <img src="https://ghchart.rshah.org/0A66C2/AnushikaKapoor05" alt="Contribution graph" width="90%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AnushikaKapoor05?tab=repositories"><img src="https://img.shields.io/github/followers/AnushikaKapoor05?style=flat-square&logo=github&label=Followers&color=111827" /></a>
+  <a href="https://leetcode.com/u/anushikakapoor_05/"><img src="https://img.shields.io/badge/Problem%20Solving-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/anushikakapoor05"><img src="https://img.shields.io/badge/Practice-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
 </p>
 
 ---
